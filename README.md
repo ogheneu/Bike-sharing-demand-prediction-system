@@ -192,16 +192,3 @@ RENTED_BIKE_COUNT ~ . +
 This project was completed as part of the **[IBM Data Analytics with Excel and R Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)**.
 
 ---
-
-## Screenshots 
-
-| Dashboard View | Description |
-|----------------|-------------|
-| ![All Detail View](all_map.png)  | Leaflet map showing predictions for all 5 cities |
-| ![Suzhou Detail View](Suzhou.png) | Temperature trend, bike demand, and humidity correlation for Suzhou |
-| ![Seoul Detail View](Seoul.png) | Temperature trend, bike demand, and humidity correlation for Seoul |
-| ![Paris Detail View](Paris.png) | Temperature trend, bike demand, and humidity correlation for Paris |
-| ![London Detail View](London.png) | Temperature trend, bike demand, and humidity correlation for London |
-| ![New York Detail View](New_York.png) | Temperature trend, bike demand, and humidity correlation for New York |
-
----
